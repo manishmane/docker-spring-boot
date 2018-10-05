@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringDemoApplication {
 
-	//	Comment asdded for 1.2
+	//	Comment asdded for 1.3
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDemoApplication.class, args);
 	}
